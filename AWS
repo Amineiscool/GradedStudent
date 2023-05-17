@@ -1,0 +1,39 @@
+Learning core AWS services should be your first step in becoming proficient with the AWS platform.
+
+Some of the core AWS services to learn include EC2, S3, RDS, VPC, IAM, CloudWatch, and Lambda.
+
+EC2 (Elastic Compute Cloud) is a virtual server service that allows you to run applications in the cloud.
+
+S3 (Simple Storage Service) is an object storage service that allows you to store and retrieve data in the cloud.
+
+RDS (Relational Database Service) is a managed database service that allows you to run and scale relational databases in the cloud.
+
+VPC (Virtual Private Cloud) is a networking service that allows you to create a virtual network in the cloud.
+
+IAM (Identity and Access Management) is a security service that allows you to control access to your AWS resources.
+
+CloudWatch is a monitoring service that allows you to monitor your AWS resources and applications.
+
+Lambda is a serverless computing service that allows you to run code without provisioning or managing servers.
+
+To learn core AWS services, it's important to have a solid understanding of the AWS console and the AWS CLI (command-line interface).
+
+The AWS console is a web-based interface that allows you to manage your AWS resources and services.
+
+The AWS CLI is a command-line tool that allows you to interact with AWS services from the command line.
+
+AWS provides extensive documentation, tutorials, and training resources to help you learn core AWS services.
+
+AWS offers a free tier that allows you to use certain services for free up to a certain usage limit, which can be a great way to get started with learning core AWS services.
+
+It's important to understand the pricing structure of AWS services and to monitor your usage to avoid unexpected charges.
+
+AWS provides several certification programs, including the AWS Certified Solutions Architect, AWS Certified Developer, and AWS Certified SysOps Administrator, which can help you validate your knowledge of core AWS services.
+
+AWS also provides several resources for developers, including the AWS SDKs (software development kits) and the AWS CLI.
+
+AWS provides several resources for DevOps professionals, including AWS CloudFormation (a service for deploying infrastructure as code), AWS CodeDeploy (a service for automating application deployments), and AWS CodePipeline (a service for automating software release pipelines).
+
+AWS provides several resources for security professionals, including AWS Security Hub (a service for centrally managing security alerts and compliance status), AWS GuardDuty (a threat detection service), and AWS WAF (a web application firewall).
+
+AWS is constantly releasing new services and features, so it's important to stay up to date with AWS news and announcements to keep your skills current.
